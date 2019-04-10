@@ -1,0 +1,20 @@
+\documentclass{beamer}
+\usepackage[english,russian]{babel}
+\usepackage[utf8]{inputenc}
+% Стиль презентации
+\usetheme{Warsaw}
+\begin{document}
+\title{Все что вы хотели знать о сферическом коне в вакууме, но боялись спросить}  
+\author{Олень Северный}
+\institute{Научно исследовательский институт физико-матетматических проблем}
+\date{Москва, 2010} 
+% Создание заглавной страницы
+\frame{\titlepage} 
+
+\begin{frame}
+\end{frame}
+
+
+% Автоматическая генерация содержания
+\frame{\frametitle{Содержание}\tableofcontents} 
+\end{document}
